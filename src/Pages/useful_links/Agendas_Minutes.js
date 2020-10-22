@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Information() {
+function Agendas_Minutes() {
     return (
         <div>
             
@@ -8,4 +8,4 @@ function Information() {
     )
 }
 
-export default Information
+export default Agendas_Minutes

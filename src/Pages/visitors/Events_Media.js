@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Information() {
+function Events_Media() {
     return (
         <div>
             
@@ -8,4 +8,4 @@ function Information() {
     )
 }
 
-export default Information
+export default Events_Media

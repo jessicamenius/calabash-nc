@@ -9,7 +9,7 @@ function Home() {
             <h4>882 Persimmon Road
             <br/>
                 Calabash, NC 28467
-                <br/>
+            <br/>
                 (910) 579-6747</h4>
             <br/>
             <br/>

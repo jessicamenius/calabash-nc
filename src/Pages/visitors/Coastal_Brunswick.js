@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Information() {
+function Coastal_Brunswick() {
     return (
         <div>
             
@@ -8,4 +8,4 @@ function Information() {
     )
 }
 
-export default Information
+export default Coastal_Brunswick
